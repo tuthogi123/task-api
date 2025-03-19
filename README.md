@@ -5,8 +5,8 @@ Built using Node.js, Express.js, MongoDB, and JWT authentication.
 
  Features
 
-✅ User Authentication** with JWT  
-✅ CRUD Operations** for managing tasks  
+✅ User Authentication with JWT  
+✅ CRUD Operations for managing tasks  
 ✅ Mark tasks as completed  
 ✅ MongoDB for data storage  
 ✅ Timestamps for task tracking
